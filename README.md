@@ -1,2 +1,2 @@
-# midi-player
+# Piano-Player
 Created with CodeSandbox
